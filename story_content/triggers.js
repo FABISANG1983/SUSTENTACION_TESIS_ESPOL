@@ -2,37 +2,37 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5yww3oHGreD":
+      case "5WkTYlspGBt":
         Script1();
         break;
-      case "5UgwuW6g1Ji":
+      case "6j6xBsiU9kf":
         Script2();
         break;
-      case "6l8TvQpfGtd":
+      case "5fCK0crCeqC":
         Script3();
         break;
-      case "6bDYulAvA4D":
+      case "5oQLpDO3cb5":
         Script4();
         break;
-      case "6G9efmDYDuO":
+      case "6hSWNHly2oQ":
         Script5();
         break;
-      case "68Kxuo25sSk":
+      case "5vh82WQsZHy":
         Script6();
         break;
-      case "6mHflaSu5P7":
+      case "6Z57Mi41sVd":
         Script7();
         break;
-      case "6BliIOCZeaI":
+      case "66Wkz6X1D2s":
         Script8();
         break;
-      case "5v96qK4QWvR":
+      case "5VbEby8S002":
         Script9();
         break;
-      case "6d4Njyv7nNE":
+      case "66ZXYHSIsnA":
         Script10();
         break;
-      case "6NNYIcmSnNd":
+      case "6TV5YIJkxAm":
         Script11();
         break;
   }
@@ -42,6 +42,7 @@ window.InitExecuteScripts = function()
 {
 var player = GetPlayer();
 var object = player.object;
+var once = player.once;
 var addToTimeline = player.addToTimeline;
 var setVar = player.SetVar;
 var getVar = player.GetVar;

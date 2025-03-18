@@ -1556,11 +1556,6 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6SMTtIBDsJh" displaytext="Presentación1 (1) [Autoguardado]1-5" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5vPoFCsmpIY.6qhjbntjKAt" displaytext="Diapositiva sin título" expand="false" type="slide" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.5vPoFCsmpIY" displaytext="TESIS_PONENCIA" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5vPoFCsmpIY.5cpP1xWeilS" displaytext="CONTENIDO" expand="false" type="slide" />
@@ -1571,14 +1566,11 @@
             <slidelink slideid="_player.5vPoFCsmpIY.6NKclkZmhw1" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vPoFCsmpIY.6MnIXwwQJEz" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vPoFCsmpIY.5YGBJWbFafG" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vPoFCsmpIY.6iqIXJjASQZ" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vPoFCsmpIY.6DrdwYyLCqC" displaytext="Diapositiva sin título" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6XkEDzEPwyU" displaytext="sliders" expand="true" type="slide">
-          <links>
             <slidelink slideid="_player.5vPoFCsmpIY.5WO2tj35End" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vPoFCsmpIY.6N3vzLX0Vw2" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vPoFCsmpIY.6qhjbntjKAt" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vPoFCsmpIY.6iqIXJjASQZ" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vPoFCsmpIY.6DrdwYyLCqC" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
